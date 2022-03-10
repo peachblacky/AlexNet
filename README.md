@@ -1,2 +1,2 @@
 # AlexNet
-realisation of AlexNet algorithm using PyTorch
+realisation of AlexNet algorithm on Aegyptus dataset located here: https://github.com/peachblacky/AegyptusDataset
